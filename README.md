@@ -16,3 +16,4 @@ Python 3.9 Required
 
 # Links
 [project/vex](https://discord.gg/YHynjFuH6v)
+[python3.9](https://www.microsoft.com/en-us/p/python-39/9p7qfqmjrfp7?activetab=pivot:overviewtab)
