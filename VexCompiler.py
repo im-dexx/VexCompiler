@@ -153,8 +153,9 @@ Vex Compiler Commands | {random.choices(desc)}
 [2]: compile all - compiles all scripts
 =======================================
         """)
-    elif cmd.lower() == "cls":
+    elif cmd.lower() == "cls" or cmd.lower() == "clear":
         cls()
+        banner()
     else:
         error("Unknown command, try again.")
 
